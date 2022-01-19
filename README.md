@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/erictempestazure/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/013310.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/erictempestazure/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=12&branchName=refs%2Fpull%2F1%2Fmerge)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
